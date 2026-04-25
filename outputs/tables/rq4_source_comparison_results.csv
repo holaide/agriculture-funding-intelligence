@@ -1,0 +1,4 @@
+condition,rows,accuracy,precision,recall,f1,roc_auc
+eu_ftop,6383,1.0,1.0,1.0,1.0,1.0
+grants_gov,1708,1.0,1.0,1.0,1.0,1.0
+combined,8091,1.0,1.0,1.0,1.0,1.0

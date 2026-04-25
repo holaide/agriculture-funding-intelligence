@@ -1,0 +1,11 @@
+RQ1 Answer:
+The best binary classifier was logistic_regression with Accuracy=1.0000, Precision=1.0000, Recall=1.0000, F1=1.0000, ROC-AUC=1.0000.
+
+RQ2 Answer:
+The most influential features, based on permutation importance, were: is_agriculture_by_text, is_agriculture_by_sector, kw_food, tfidf_year, tfidf_www, kw_livestock, tfidf_услуги, days_to_close, text_length, publish_year.
+
+RQ3 Answer:
+The best subtheme classifier was xgboost_multiclass with Accuracy=0.9773, Macro Precision=0.9788, Macro Recall=0.9053, Macro F1=0.9362, Cohen's Kappa=0.9652.
+
+RQ4 Answer:
+The strongest source condition was eu_ftop with F1=1.0000 and ROC-AUC=1.0000. Use rq4_source_comparison_results.csv to determine whether the combined multi-source condition improved over each single-source baseline.

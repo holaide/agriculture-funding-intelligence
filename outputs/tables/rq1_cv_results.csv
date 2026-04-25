@@ -1,0 +1,4 @@
+model,cv_accuracy_mean,cv_precision_mean,cv_recall_mean,cv_f1_mean,cv_roc_auc_mean
+logistic_regression,1.0,1.0,1.0,1.0,1.0
+xgboost,1.0,1.0,1.0,1.0,1.0
+random_forest,0.9918113299875279,0.9985401459854014,0.9638623662381274,0.9808786039805627,0.999917761065132
